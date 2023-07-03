@@ -1,5 +1,4 @@
 import 'package:belajar_statemanagement/menu/countdown_widget.dart';
-import 'package:belajar_statemanagement/menu/rekomendasi.dart';
 
 import 'package:flutter/material.dart';
 
@@ -1184,7 +1183,7 @@ class FlashSale extends StatelessWidget {
              )
             ),
             
-            Rekomendasi()
+      
                  
           ],
         ),
